@@ -3,7 +3,7 @@
 
 ## 代码文件存放于code文件夹中:
 
-Ethan_model.py: 建模脚本
+Ethan_baseline.py: 建模脚本
 
 Ethan_EDA.ipynb: 数据探索Notebook
 
