@@ -12,4 +12,4 @@ Lightgbm2.2.1
 sklearn0.20.3
 
 
-欢迎大家关注我们的公众号：OTTO Data Lab
+欢迎大家关注我们的公众号：**OTTO Data Lab**
